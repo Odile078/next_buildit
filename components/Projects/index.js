@@ -1,9 +1,12 @@
+import CallToAction from "../cta/CallToAction";
 import ServicesHero from "../Services/ServicesHero";
+import ProjectsHero from "./ProjectsHero";
 
 const ProjectsPage = () => {
     return (
         <>
-            <ServicesHero/>
+            <ProjectsHero/>
+            <CallToAction/>
         </>
     );
 }
