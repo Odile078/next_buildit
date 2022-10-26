@@ -16,7 +16,7 @@ const ServicesList = () => {
                </div>
            </div>
            <picture className="self-center">
-               <img className="object-cover object-center" alt="house" src="/images/featured-projects.png" />
+               <img className="object-cover object-center" alt="house" src="/images/project-house1.png" />
            </picture>
        </div>
            )}
