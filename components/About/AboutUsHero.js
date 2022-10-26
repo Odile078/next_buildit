@@ -1,4 +1,4 @@
-import AboutUsSummary from "./AboutusSummary";
+import AboutUsSummary from "./AboutUsSummary";
 
 const AboutUsHero = () => {
     return (
