@@ -10,7 +10,7 @@ const Header = () => {
                         <h1 className="text-2xl font-bold text-brandGreen-dark">Buildit</h1>
                     </a>
                 </Link>
-                <ul className="items-center hidden gap-3 md:flex " >
+                <ul className="items-center hidden gap-6 md:flex " >
                     <li ><Link href='/about'><a className="text-base font-medium text-brandGreen" >About</a></Link></li>
                     <li ><Link href='/services'><a className="text-base font-medium text-brandGreen" >Services</a></Link></li>
                     <li ><Link href='/projects'><a className="text-base font-medium text-brandGreen" >Project</a></Link></li>

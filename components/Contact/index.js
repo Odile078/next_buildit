@@ -3,8 +3,8 @@ import ContactForm from "./ContactForm";
 const ContactPage = () => {
     return (
         <section className="bg-blue-50">
-             <div className="grid grid-cols-1 px-6 pt-20 pb-10 space-y-8 md:grid-cols-2 lg:mx-auto lg:container md:pt-28 lg:px-auto md:px-10">           
-            <div className="flex flex-col justify-between space-y-16">
+             <div className="grid grid-cols-1 px-6 pt-20 pb-20 space-y-8 md:pt-28 md:grid-cols-2 lg:mx-auto lg:container lg:px-auto md:px-10">           
+            <div className="flex flex-col justify-between space-y-16">          
                 <div className="space-y-6">
                     <h3 className="text-base font-medium text-brandGreen-light">Socials</h3>
                     <h2 className="text-4xl font-bold text-brandGreen-dark">On Instagram</h2>
