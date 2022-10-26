@@ -1,8 +1,7 @@
+import AboutPage from "../components/About"
+
 const about = () => {
-    return (
-        <div>
-            About
-        </div>
+    return (<AboutPage/>
     );
 }
 
