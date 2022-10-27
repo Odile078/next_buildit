@@ -1,9 +1,7 @@
 import ServicesPage from "../components/Services";
-
-const services = () => {
+const Services = () => {
     return (
         <ServicesPage/>
     );
 }
-
-export default services;
+export default Services;

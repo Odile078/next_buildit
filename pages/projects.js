@@ -1,9 +1,9 @@
 import ProjectsPage from "../components/Projects";
 
-const projects = () => {
+const Projects = () => {
     return (
         <ProjectsPage/>
     );
 }
 
-export default projects;
+export default Projects;

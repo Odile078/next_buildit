@@ -1,8 +1,8 @@
 import AboutPage from "../components/About"
 
-const about = () => {
+const About = () => {
     return (<AboutPage/>
     );
 }
 
-export default about;
+export default About;
